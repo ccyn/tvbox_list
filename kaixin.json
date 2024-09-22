@@ -28,6 +28,8 @@
 {"key":"丘丘影视","name":"📽️丘丘|影视","playerType":1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.173.115.204:2211/api.php/app/"},
 {"key":"君君","name":"📽️君君|影视","type":3,"changeable":0,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.85.203:1000/api.php/app/"},
 {"key":"蚂蚁","name":"📽️蚂蚁|影视","type":1,"changeable":0,"api":"https://360zy.com/api.php/provide/vod","playUrl":"json:http://110.42.3.99:880/rmm.php/?url=","categories":["爽文短剧","国产剧","国产动漫","动画电影","网络电影","动作片","喜剧片","灾难片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","奇幻片","国产综艺"]},
+{"key":"88js","name":"⚽ 88|看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"310js","name":"⚽ 310|看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"New6v","name":"📀New6V|磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 {"key":"美剧迷","name":"📀美剧迷|磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"迅雷吧","name":"📀迅雷吧|磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
@@ -36,9 +38,7 @@
 {"key":"美剧天堂","name":"📀美剧|磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"精品短剧","name":"🎞️精品|短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},
 {"key":"星芽短剧","name":"🎞️星芽|短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"无忧短剧","name":"🎞️无忧|短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"},
-{"key":"88js","name":"⚽ 88|看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"310js","name":"⚽ 310|看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0}
+{"key":"无忧短剧","name":"🎞️无忧|短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"}
 ],
 
 "parses":
