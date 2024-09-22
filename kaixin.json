@@ -1,5 +1,5 @@
 {
-"wallpaper":"https://bing.img.run/1920x1080.php",
+"wallpaper":"https://cdn.jsdelivr.net/gh/ccyn/tvbox_list@main/wallpaper.png",
 "spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
 "lives":[
 {"name":"tv","type":0,"url":"https://tv.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
